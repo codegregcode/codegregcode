@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @codegregcode
+- 👋 Hi, I’m @codegregcode and I'm learning to code with ManchesterCodes
 - 👀 I’m interested in music, tech and movies/tv
-- 🌱 I’m currently learning JavaScript with ManchesterCodes
+- 🌱 I’m currently learning JavaScript
 - 📫 You can reach me here: codegregcode@gmail.com
 - ☮️&❤️
 
