@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @codegregcode
 - 👀 I’m interested in music, tech and movies/tv
 - 🌱 I’m currently learning JavaScript with ManchesterCodes
-- 📫 How to reach me codegregcode@gmail.com
+- 📫 You can reach me here: codegregcode@gmail.com
 - ☮️&❤️
 
 <!---
