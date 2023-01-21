@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codegregcode and I'm learning to code with ManchesterCodes
+- 👋 Hi, I’m @codegregcode and I'm learning to code with CommandShift
 - 👀 I’m interested in music, tech and movies/tv
 - 🌱 I’m currently learning JavaScript
 - 📫 You can reach me here: codegregcode@gmail.com
