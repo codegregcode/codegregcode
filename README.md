@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @codegregcode and I'm learning to code with CommandShift
+- 👋 Hi, I’m @codegregcode
 - 👀 I’m interested in music, tech and movies/tv
-- 🌱 I’m currently learning JavaScript
+- 🌱 I completed a bootcamp with @CommandShiftHQ and I'm looking for my first Software Development role
+- 🤹‍♂️ React, Firebase, PostgreSQL, Docker, JavaScript, HTML, CSS and Git
 - 📫 You can reach me here: codegregcode@gmail.com
 - ☮️&❤️
 
