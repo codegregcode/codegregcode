@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @codegregcode
-- 👀 I’m interested in music, photography and movies/tv (& tech, of course)
-- 🌱 I completed a bootcamp with @CommandShiftHQ and I'm looking for my first Software Development role
-- 🤹‍♂️ React, Firebase, PostgreSQL, Docker, JavaScript, HTML, CSS and Git
-- 📫 You can reach me here: www.linkedin.com/in/greg-cain/
 - ☮️&❤️
 
 <!---
